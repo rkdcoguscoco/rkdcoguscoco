@@ -29,6 +29,7 @@ I'm interested in applying **AI and data-driven approaches** to manufacturing sy
 - Participated in programming studies and manufacturing data analysis under faculty supervision
 - Analyzed real-world sand casting process data using Python
 - Explored process characteristics and quality-related variables in sand casting
+- Reviewed analytical findings and received feedback from the supervising professor
 
 **Active Data Analysis:** Jan – May 2024
 
@@ -38,7 +39,7 @@ I'm interested in applying **AI and data-driven approaches** to manufacturing sy
 
 ### 01. [LineGate AOI — AI-Based Quality Inspection](https://github.com/rkdcoguscoco/linegate-aoi)
 
-**Superb AI × BDAI Vision AI Hackathon | Team Project**
+**Superb AI × BDAI Vision AI Hackathon | Team Koala | Finalist**
 
 AI-assisted quality inspection system for SMT manufacturing using multi-view PCB images.
 
@@ -108,6 +109,7 @@ Structural design optimization of a drone motor mount, focusing on weight reduct
 | Mar 2 – Aug 31, 2025 | **BDA 9th** | Big Data Analysis & Learner Course Completion Prediction (DACON) |
 | Mar 11 – Aug 27, 2025 | **Take out — ROS Club** | ROS2-Based Autonomous Driving Car Development |
 | Mar – Jun 2026 | **Gachon University Hawaii Premium Course** | 4-Month English Language Study Abroad Program in Hawaii, USA |
+| Jul 13 – Aug 22, 2026 | **Superb AI × BDAI Vision AI Hackathon** | **Finalist** — AI-Based PCB Quality Inspection System Development (Team Koala) |
 
 ---
 

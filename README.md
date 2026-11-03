@@ -20,6 +20,29 @@ I'm interested in applying **AI and data-driven approaches** to manufacturing sy
 
 ---
 
+## 📂 Featured Project
+
+### [LineGate AOI — AI-Based Quality Inspection](https://github.com/rkdcoguscoco/linegate-aoi)
+
+**Superb AI × BDAI Vision AI Hackathon | Team Project**
+
+AI-assisted quality inspection system for SMT manufacturing using multi-view PCB images.
+
+**Key Features**
+- Multi-view defect inspection using RF-DETR and YOLO11s-seg
+- Integrated quality decision support: RELEASE / HOLD / REVIEW
+- Streamlit-based web application with human approval workflow
+
+**My Contributions**
+- Data collection, labeling, and preprocessing
+- Quality decision logic implementation
+- Web application development and integration
+- Experimental analysis and technical documentation
+
+**Tech:** Python · RF-DETR · YOLO11s-seg · FastAPI · Streamlit
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages & Data
@@ -39,32 +62,37 @@ I'm interested in applying **AI and data-driven approaches** to manufacturing sy
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 📂 Featured Project
+## 📌 Activities
 
-### 01. [LineGate AOI — AI-Based Quality Inspection](https://github.com/rkdcoguscoco/linegate-aoi)
+| Activity | Role & Contribution |
+|:---|:---|
+| **ROS Club** | ROS2-Based Autonomous Driving Car Development |
 
-**Superb AI × BDAI Vision AI Hackathon | Finalist | Team Project**
+---
 
-AI-assisted quality inspection system for SMT manufacturing using multi-view PCB images.
+## 📚 Training
 
-**Key Features**
-- Multi-view defect inspection using RF-DETR and YOLO11s-seg
-- Integrated quality decision support: RELEASE / HOLD / REVIEW
-- Streamlit-based web application with human approval workflow
+| Program | Description |
+|:---|:---|
+| **DSA 14th** | Semiconductor Process Optimization & Defect Rate Reduction for Revenue Improvement |
+| **BDA 9th** | Big Data Analysis Training & Learner Course Completion Prediction AI Model Development (DACON) |
 
-**My Contributions**
-- Data collection, labeling, and preprocessing
-- Quality decision logic implementation
-- Web application development and integration
-- Experimental analysis and technical documentation
+---
 
-**Tech:** Python · RF-DETR · YOLO11s-seg · FastAPI · Streamlit
+## 🏅 Certifications
+
+| Certification | Field |
+|:---|:---|
+| **ERP Information Management (Production)** | Production Management |
+| **Six Sigma** | Quality Management & Process Improvement |
 
 ---
 

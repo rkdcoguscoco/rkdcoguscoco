@@ -88,11 +88,11 @@ Structural design optimization of a drone motor mount, focusing on weight reduct
 
 ## 📚 Training & Activities
 
-| Program / Activity | Description |
-|:---|:---|
-| **DSA 14th** | Semiconductor Process Optimization & Defect Rate Reduction for Revenue Improvement |
-| **BDA 9th** | Big Data Analysis Training & Learner Course Completion Prediction AI Model Development (DACON) |
-| **ROS Club** | ROS2-Based Autonomous Driving Car Development |
+| Period | Program / Activity | Description |
+|:---|:---|:---|
+| Sep 13 – Oct 26, 2024 | **DSA 14th** | Semiconductor Process Optimization & Defect Rate Reduction |
+| Mar 2 – Aug 31, 2025 | **BDA 9th** | Big Data Analysis & Learner Course Completion Prediction (DACON) |
+| Mar 11 – Aug 27, 2025 | **Take out — ROS Club** | ROS2-Based Autonomous Driving Car Development |
 
 ---
 

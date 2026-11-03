@@ -20,9 +20,9 @@ I'm interested in applying **AI and data-driven approaches** to manufacturing sy
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
-### [LineGate AOI — AI-Based Quality Inspection](https://github.com/rkdcoguscoco/linegate-aoi)
+### 01. [LineGate AOI — AI-Based Quality Inspection](https://github.com/rkdcoguscoco/linegate-aoi)
 
 **Superb AI × BDAI Vision AI Hackathon | Team Project**
 
@@ -40,6 +40,21 @@ AI-assisted quality inspection system for SMT manufacturing using multi-view PCB
 - Experimental analysis and technical documentation
 
 **Tech:** Python · RF-DETR · YOLO11s-seg · FastAPI · Streamlit
+
+---
+
+### 02. Drone Motor Mount Design Optimization — MecaForge
+
+**Gachon University | P-Practical Project | Team Project**
+
+드론 모터 마운트의 경량화 및 고유진동 회피를 고려한 구조 설계 최적화 프로젝트
+
+- 삼각형 기반 드론 모터 마운트 설계
+- 모달 해석을 통한 고유진동수 분석
+- 위상최적화를 통한 약 30% 질량 감소 (시뮬레이션 기준)
+- 적층제조를 고려한 구조 설계
+
+**Methods:** Topology Optimization · Modal Analysis · Additive Manufacturing
 
 ---
 
@@ -70,20 +85,13 @@ AI-assisted quality inspection system for SMT manufacturing using multi-view PCB
 
 ---
 
-## 📌 Activities
+## 📚 Training & Activities
 
-| Activity | Role & Contribution |
-|:---|:---|
-| **ROS Club** | ROS2-Based Autonomous Driving Car Development |
-
----
-
-## 📚 Training
-
-| Program | Description |
+| Program / Activity | Description |
 |:---|:---|
 | **DSA 14th** | Semiconductor Process Optimization & Defect Rate Reduction for Revenue Improvement |
 | **BDA 9th** | Big Data Analysis Training & Learner Course Completion Prediction AI Model Development (DACON) |
+| **ROS Club** | ROS2-Based Autonomous Driving Car Development |
 
 ---
 
@@ -93,6 +101,18 @@ AI-assisted quality inspection system for SMT manufacturing using multi-view PCB
 |:---|:---|
 | **ERP Information Management (Production)** | Production Management |
 | **Six Sigma** | Quality Management & Process Improvement |
+
+---
+
+## 🎓 Student Council & Leadership
+
+| Year | Organization | Position |
+|:---:|:---|:---|
+| 2023 | **SPUI Promotion Team** | General Team Member |
+| 2024 | **Smart Factory Student Council — Re:SFAC** | Vice President |
+| 2025 | **College of Engineering Emergency Committee** | Policy Team 2 Member |
+| 2025 | **College of Engineering Election Campaign — Yeon** | Planning Team Leader |
+| 2025 | **College of Engineering Student Council — Yeon** | Planning Team Leader |
 
 ---
 

@@ -20,6 +20,20 @@ I'm interested in applying **AI and data-driven approaches** to manufacturing sy
 
 ---
 
+## 🧪 Research Experience
+
+### Undergraduate Research Assistant — Sand Casting Process Data Analysis
+
+**Gachon University | Oct 2023 – Jul 2024**
+
+- Participated in programming studies and manufacturing data analysis under faculty supervision
+- Analyzed real-world sand casting process data using Python
+- Explored process characteristics and quality-related variables in sand casting
+
+**Active Data Analysis:** Jan – May 2024
+
+---
+
 ## 📂 Featured Projects
 
 ### 01. [LineGate AOI — AI-Based Quality Inspection](https://github.com/rkdcoguscoco/linegate-aoi)

@@ -93,6 +93,7 @@ Structural design optimization of a drone motor mount, focusing on weight reduct
 | Sep 13 – Oct 26, 2024 | **DSA 14th** | Semiconductor Process Optimization & Defect Rate Reduction |
 | Mar 2 – Aug 31, 2025 | **BDA 9th** | Big Data Analysis & Learner Course Completion Prediction (DACON) |
 | Mar 11 – Aug 27, 2025 | **Take out — ROS Club** | ROS2-Based Autonomous Driving Car Development |
+| Mar – Jun 2026 | **Gachon University Hawaii Premium Course** | 4-Month English Language Study Abroad Program in Hawaii, USA |
 
 ---
 

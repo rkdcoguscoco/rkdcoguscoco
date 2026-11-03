@@ -47,12 +47,13 @@ AI-assisted quality inspection system for SMT manufacturing using multi-view PCB
 
 **Gachon University | P-Practical Project | Team Project**
 
-드론 모터 마운트의 경량화 및 고유진동 회피를 고려한 구조 설계 최적화 프로젝트
+Structural design optimization of a drone motor mount, focusing on weight reduction, vibration characteristics, and resonance avoidance.
 
-- 삼각형 기반 드론 모터 마운트 설계
-- 모달 해석을 통한 고유진동수 분석
-- 위상최적화를 통한 약 30% 질량 감소 (시뮬레이션 기준)
-- 적층제조를 고려한 구조 설계
+**Key Features**
+- Triangular motor mount design for structural stability
+- Modal analysis to evaluate natural frequencies and vibration characteristics
+- Topology optimization achieving approximately 30% mass reduction in simulation
+- Structural design considering additive manufacturing
 
 **Methods:** Topology Optimization · Modal Analysis · Additive Manufacturing
 
@@ -110,7 +111,7 @@ AI-assisted quality inspection system for SMT manufacturing using multi-view PCB
 |:---:|:---|:---|
 | 2023 | **SPUI Promotion Team** | General Team Member |
 | 2024 | **Smart Factory Student Council — Re:SFAC** | Vice President |
-| 2025 | **College of Engineering Emergency Committee** | Policy Team 2 Member |
+| 2025 | **College of Engineering Emergency Committee** | Policy Team 2 Leader |
 | 2025 | **College of Engineering Election Campaign — Yeon** | Planning Team Leader |
 | 2025 | **College of Engineering Student Council — Yeon** | Planning Team Leader |
 

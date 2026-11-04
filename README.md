@@ -37,7 +37,7 @@ I'm interested in applying **AI and data-driven approaches** to manufacturing sy
 
 ## 📂 Featured Projects
 
-### 01. [LineGate AOI — AI-Based Quality Inspection](https://github.com/rkdcoguscoco/linegate-aoi)
+### [LineGate AOI — AI-Based Quality Inspection](https://github.com/rkdcoguscoco/linegate-aoi)
 
 **Superb AI × BDAI Vision AI Hackathon | Team Koala | Finalist**
 
@@ -55,22 +55,6 @@ AI-assisted quality inspection system for SMT manufacturing using multi-view PCB
 - Experimental analysis and technical documentation
 
 **Tech:** Python · RF-DETR · YOLO11s-seg · FastAPI · Streamlit
-
----
-
-### 02. Drone Motor Mount Design Optimization — MecaForge
-
-**Gachon University | P-Practical Project | Team Project**
-
-Structural design optimization of a drone motor mount, focusing on weight reduction, vibration characteristics, and resonance avoidance.
-
-**Key Features**
-- Triangular motor mount design for structural stability
-- Modal analysis to evaluate natural frequencies and vibration characteristics
-- Topology optimization achieving approximately 30% mass reduction in simulation
-- Structural design considering additive manufacturing
-
-**Methods:** Topology Optimization · Modal Analysis · Additive Manufacturing
 
 ---
 

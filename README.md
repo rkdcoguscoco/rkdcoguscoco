@@ -26,13 +26,10 @@ I'm interested in applying **AI and data-driven approaches** to manufacturing sy
 
 **Gachon University | Oct 2023 – Jul 2024**
 
-- Participated in programming studies and manufacturing data analysis under faculty supervision
-- Analyzed real-world sand casting process data using Python
-- Explored process characteristics and quality-related variables in sand casting
-- Reviewed analytical findings and received feedback from the supervising professor
+- Used Python to organize foundry sand data on loss on ignition (LOI) and particle size distribution, compare year-to-year trends, and examine the relationship between the two measures.
+- Observed a higher proportion of fine particles at higher LOI values and explored whether this pattern might be associated with gas defects in castings.
 
 **Active Data Analysis:** Jan – May 2024
-
 ---
 
 ## 📂 Featured Projects

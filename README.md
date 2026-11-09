@@ -26,34 +26,12 @@ I'm interested in applying **AI and data-driven approaches** to manufacturing sy
 
 **Gachon University | Oct 2023 – Jul 2024**
 
-- Used Python to organize foundry sand data on loss on ignition (LOI) and particle size distribution, compare year-to-year trends, and examine the relationship between the two measures.
-- Observed a higher proportion of fine particles at higher LOI values and explored whether this pattern might be associated with gas defects in castings.
-
-**Active Data Analysis:** Jan – May 2024
----
-
 ## 📂 Featured Projects
 
 ### [LineGate AOI — AI-Based Quality Inspection](https://github.com/rkdcoguscoco/linegate-aoi)
 
 **Superb AI × BDAI Vision AI Hackathon | Team Koala | Finalist**
 
-AI-assisted quality inspection system for SMT manufacturing using multi-view PCB images.
-
-**Key Features**
-- Multi-view defect inspection using RF-DETR and YOLO11s-seg
-- Integrated quality decision support: RELEASE / HOLD / REVIEW
-- Streamlit-based web application with human approval workflow
-
-**My Contributions**
-- Data collection, labeling, and preprocessing
-- Quality decision logic implementation
-- Web application development and integration
-- Experimental analysis and technical documentation
-
-**Tech:** Python · RF-DETR · YOLO11s-seg · FastAPI · Streamlit
-
----
 
 ## 🛠️ Tech Stack
 

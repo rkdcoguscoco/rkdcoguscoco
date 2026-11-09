@@ -12,12 +12,8 @@ I'm interested in applying **AI and data-driven approaches** to manufacturing sy
 ---
 
 ## 🔬 Research Interests
-
-| ⚙️ Manufacturing AI | 🔍 Quality Engineering | 📊 Process Optimization |
-|:---:|:---:|:---:|
-| Intelligent Manufacturing | AI-Based Defect Detection | Data-Driven Decision Making |
-| Smart Factory Systems | Quality Inspection | Manufacturing Data Analytics |
-
+- Industrial AI for Smart Manufacturing
+- AI-Based Quality Inspection and Defect Detection
 ---
 
 ## 🧪 Research Experience

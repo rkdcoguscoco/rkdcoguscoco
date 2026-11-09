@@ -5,7 +5,7 @@
 
 I'm an undergraduate student at Gachon University, majoring in Smart Factory and double majoring in Industrial Engineering.
 
-I'm interested in applying **image-based and data-driven approcaches** to manufacturing systems, with a focus on quality improvement, intelligent inspection, and process optimization.
+I'm interested in applying **AI and data-driven approcaches** to manufacturing systems, with a focus on quality improvement, intelligent inspection, and process optimization.
 
 ---
 
